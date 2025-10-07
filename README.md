@@ -61,43 +61,25 @@ Please refer to the **EdgeSoybeanNet Research Paper** for dataset access links a
 
 ---
 
-### 🚀 Running the Model
-
-**Option 1 — Direct Run**
-
-```bash
-python run_model.py
-```
-
-This will:
-
-* Load the pretrained model from `/trained_models/`
-* Run inference on all test images in `/dataset/test/`
-
----
-
 ### 🚀 Running EdgeSoybeanNet
 
-**Option 2 — Run Directly from the Model File**
-
-You can execute the model directly from the `UNetLite.py` file, which automatically imports and runs the engine:
+You can run the EdgeSoybeanNet model directly from the main model file:
 
 ```bash
 python UNetLite.py
 ```
 
-This script internally includes:
+This script automatically imports the engine module and executes the model using:
 
 ```python
 import engine
 engine.run(UNetLite)
 ```
 
-Inside the `run()` function of `engine.py`, you can decide whether to **test**, **train**, or **evaluate** the model by modifying the code logic.
-This gives you full control to switch between different modes or datasets easily.
+Inside the `run()` function of **`engine.py`**, you can specify whether to **train**, **test**, or **evaluate** the model by adjusting the logic in that function.
+This gives you full flexibility to switch between different modes or datasets.
 
-*(You may later rename `engine.py` to `edge_runner.py` for clarity — especially if you plan to manage multiple models in the same repository.)*
-
+*(Optionally, you can rename `engine.py` to `edge_runner.py` later for better clarity when managing multiple models.)*
 
 ---
 
