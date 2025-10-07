@@ -21,10 +21,18 @@ This repository provides:
 ### 📦 Repository Structure
 
 EdgeSoybeanNet/
-├── dataset/          # contains only test images
-├── codes/            # all Python scripts (training, inference, utils, etc.)
-├── trained_models/   # pre-trained model weights (.pth)
-└── requirements.txt  # dependency list
+├── dataset/              # Contains only test images
+│   └── ...               # (e.g., sample1.jpg, sample2.jpg)
+│
+├── codes/                # All Python scripts (training, inference, utils, etc.)
+│   ├── UNetLite.py       # Lightweight UNet model definition
+visualization)
+│   ├── engine.py         # Core training loop and evaluation functions
+│
+├── trained_models/       # Pre-trained model weights (.pth files)
+│   └── ...
+│
+└── requirements.txt      # Python dependencies
 
 ---
 
