@@ -1,0 +1,182 @@
+{
+    "DJI_0112_1": {
+        "pod_count": 1831,
+        "pred_mask_threshold": 0.8999999761581421,
+        "pred_mask_pod_count": 1632,
+        "pred_mask_pod_count@_0.5th": 1494,
+        "pred_mask_pod_count@_0.9th": 1632,
+        "pred_mask_pod_count@_0.7th": 1521,
+        "pred_mask_pod_count@_0.95th": 1053,
+        "pred_mask_pod_count@_0.3th": 1431
+    },
+    "DJI_0132_1": {
+        "pod_count": 2000,
+        "pred_mask_threshold": 0.5,
+        "pred_mask_pod_count": 1752,
+        "pred_mask_pod_count@_0.5th": 1752,
+        "pred_mask_pod_count@_0.9th": 956,
+        "pred_mask_pod_count@_0.7th": 1652,
+        "pred_mask_pod_count@_0.95th": 356,
+        "pred_mask_pod_count@_0.3th": 1796
+    },
+    "DJI_0136_0": {
+        "pod_count": 2164,
+        "pred_mask_threshold": 0.800000011920929,
+        "pred_mask_pod_count": 2326,
+        "pred_mask_pod_count@_0.5th": 2560,
+        "pred_mask_pod_count@_0.9th": 1872,
+        "pred_mask_pod_count@_0.7th": 2437,
+        "pred_mask_pod_count@_0.95th": 972,
+        "pred_mask_pod_count@_0.3th": 2639
+    },
+    "DJI_0600_2": {
+        "pod_count": 980,
+        "pred_mask_threshold": 0.5,
+        "pred_mask_pod_count": 885,
+        "pred_mask_pod_count@_0.5th": 885,
+        "pred_mask_pod_count@_0.9th": 466,
+        "pred_mask_pod_count@_0.7th": 767,
+        "pred_mask_pod_count@_0.95th": 225,
+        "pred_mask_pod_count@_0.3th": 1063
+    },
+    "DJI_0603_1": {
+        "pod_count": 2724,
+        "pred_mask_threshold": 0.5,
+        "pred_mask_pod_count": 2392,
+        "pred_mask_pod_count@_0.5th": 2392,
+        "pred_mask_pod_count@_0.9th": 1330,
+        "pred_mask_pod_count@_0.7th": 2057,
+        "pred_mask_pod_count@_0.95th": 550,
+        "pred_mask_pod_count@_0.3th": 2669
+    },
+    "DJI_0608_0": {
+        "pod_count": 2879,
+        "pred_mask_threshold": 0.5,
+        "pred_mask_pod_count": 3198,
+        "pred_mask_pod_count@_0.5th": 3198,
+        "pred_mask_pod_count@_0.9th": 1762,
+        "pred_mask_pod_count@_0.7th": 2804,
+        "pred_mask_pod_count@_0.95th": 899,
+        "pred_mask_pod_count@_0.3th": 3490
+    },
+    "DJI_0610_1": {
+        "pod_count": 1804,
+        "pred_mask_threshold": 0.8999999761581421,
+        "pred_mask_pod_count": 1691,
+        "pred_mask_pod_count@_0.5th": 1789,
+        "pred_mask_pod_count@_0.9th": 1691,
+        "pred_mask_pod_count@_0.7th": 1790,
+        "pred_mask_pod_count@_0.95th": 1172,
+        "pred_mask_pod_count@_0.3th": 1791
+    },
+    "DJI_0612_1": {
+        "pod_count": 1715,
+        "pred_mask_threshold": 0.8999999761581421,
+        "pred_mask_pod_count": 1647,
+        "pred_mask_pod_count@_0.5th": 2145,
+        "pred_mask_pod_count@_0.9th": 1647,
+        "pred_mask_pod_count@_0.7th": 2045,
+        "pred_mask_pod_count@_0.95th": 890,
+        "pred_mask_pod_count@_0.3th": 2167
+    },
+    "DJI_0612_3": {
+        "pod_count": 966,
+        "pred_mask_threshold": 0.5,
+        "pred_mask_pod_count": 1301,
+        "pred_mask_pod_count@_0.5th": 1301,
+        "pred_mask_pod_count@_0.9th": 782,
+        "pred_mask_pod_count@_0.7th": 1109,
+        "pred_mask_pod_count@_0.95th": 447,
+        "pred_mask_pod_count@_0.3th": 1481
+    },
+    "DJI_0614_0": {
+        "pod_count": 2402,
+        "pred_mask_threshold": 0.5,
+        "pred_mask_pod_count": 3382,
+        "pred_mask_pod_count@_0.5th": 3382,
+        "pred_mask_pod_count@_0.9th": 2062,
+        "pred_mask_pod_count@_0.7th": 2994,
+        "pred_mask_pod_count@_0.95th": 1019,
+        "pred_mask_pod_count@_0.3th": 3693
+    },
+    "DJI_0619_1": {
+        "pod_count": 1921,
+        "pred_mask_threshold": 0.800000011920929,
+        "pred_mask_pod_count": 2182,
+        "pred_mask_pod_count@_0.5th": 2295,
+        "pred_mask_pod_count@_0.9th": 1902,
+        "pred_mask_pod_count@_0.7th": 2246,
+        "pred_mask_pod_count@_0.95th": 1096,
+        "pred_mask_pod_count@_0.3th": 2339
+    },
+    "DJI_0624_1": {
+        "pod_count": 1569,
+        "pred_mask_threshold": 0.8999999761581421,
+        "pred_mask_pod_count": 1621,
+        "pred_mask_pod_count@_0.5th": 1768,
+        "pred_mask_pod_count@_0.9th": 1621,
+        "pred_mask_pod_count@_0.7th": 1695,
+        "pred_mask_pod_count@_0.95th": 1294,
+        "pred_mask_pod_count@_0.3th": 1798
+    },
+    "DJI_0625_0": {
+        "pod_count": 3321,
+        "pred_mask_threshold": 0.5,
+        "pred_mask_pod_count": 3185,
+        "pred_mask_pod_count@_0.5th": 3185,
+        "pred_mask_pod_count@_0.9th": 1772,
+        "pred_mask_pod_count@_0.7th": 2915,
+        "pred_mask_pod_count@_0.95th": 592,
+        "pred_mask_pod_count@_0.3th": 3324
+    },
+    "DJI_0625_1": {
+        "pod_count": 1924,
+        "pred_mask_threshold": 0.5,
+        "pred_mask_pod_count": 1905,
+        "pred_mask_pod_count@_0.5th": 1905,
+        "pred_mask_pod_count@_0.9th": 1503,
+        "pred_mask_pod_count@_0.7th": 1865,
+        "pred_mask_pod_count@_0.95th": 738,
+        "pred_mask_pod_count@_0.3th": 1928
+    },
+    "DJI_0626_0": {
+        "pod_count": 3410,
+        "pred_mask_threshold": 0.5,
+        "pred_mask_pod_count": 3394,
+        "pred_mask_pod_count@_0.5th": 3394,
+        "pred_mask_pod_count@_0.9th": 1779,
+        "pred_mask_pod_count@_0.7th": 3046,
+        "pred_mask_pod_count@_0.95th": 607,
+        "pred_mask_pod_count@_0.3th": 3641
+    },
+    "DJI_0629_0": {
+        "pod_count": 2548,
+        "pred_mask_threshold": 0.5,
+        "pred_mask_pod_count": 2608,
+        "pred_mask_pod_count@_0.5th": 2608,
+        "pred_mask_pod_count@_0.9th": 2047,
+        "pred_mask_pod_count@_0.7th": 2512,
+        "pred_mask_pod_count@_0.95th": 1106,
+        "pred_mask_pod_count@_0.3th": 2609
+    },
+    "DJI_0629_1": {
+        "pod_count": 1136,
+        "pred_mask_threshold": 0.8999999761581421,
+        "pred_mask_pod_count": 1136,
+        "pred_mask_pod_count@_0.5th": 1300,
+        "pred_mask_pod_count@_0.9th": 1136,
+        "pred_mask_pod_count@_0.7th": 1282,
+        "pred_mask_pod_count@_0.95th": 668,
+        "pred_mask_pod_count@_0.3th": 1305
+    },
+    "DJI_0630_1": {
+        "pod_count": 1739,
+        "pred_mask_threshold": 0.8999999761581421,
+        "pred_mask_pod_count": 1888,
+        "pred_mask_pod_count@_0.5th": 1799,
+        "pred_mask_pod_count@_0.9th": 1888,
+        "pred_mask_pod_count@_0.7th": 1846,
+        "pred_mask_pod_count@_0.95th": 1243,
+        "pred_mask_pod_count@_0.3th": 1708
+    }
+}
