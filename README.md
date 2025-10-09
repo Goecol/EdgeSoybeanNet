@@ -20,19 +20,33 @@ This repository provides:
 
 ### 📦 Repository Structure
 
+```
 EdgeSoybeanNet/
 ├── dataset/              # Contains only test images
 │   └── ...               # (e.g., sample1.jpg, sample2.jpg)
 │
+├── json/                 # Contains JSON annotation files for test images only
+│   └── ...               # (e.g., sample1.json, sample2.json)
+│
 ├── codes/                # All Python scripts (training, inference, utils, etc.)
-│   ├── UNetLite.py       # Lightweight UNet model definition
-visualization)
+│   ├── Pre_processing/   # Codes for the preprocessing stage (Stage 1 of the framework)
+│   │   └── ...   
+│   ├── UNetLite.py       # Lightweight UNet model definition and visualization
 │   ├── engine.py         # Core training loop and evaluation functions
+│
+├── results/              # Sample outputs from each stage of the framework
+│   └── ...    
 │
 ├── trained_models/       # Pre-trained model weights (.pth files)
 │   └── ...
 │
 └── requirements.txt      # Python dependencies
+```
+
+> **Note:**
+> The `json/` directory includes **only the JSON annotation files for the test dataset** used in evaluation.
+> For access to the complete set of JSON files (training, validation, and testing) used in this research,
+> please refer to the **EdgeSoybeanNet Research Paper** for dataset access links and preparation instructions.
 
 ---
 
